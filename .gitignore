@@ -3,3 +3,23 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local secrets
+.env
+
+# Logs
+*.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
