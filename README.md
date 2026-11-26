@@ -1,5 +1,7 @@
 # Instant AI — MT-33-H
 
+[![CI](https://github.com/Eslammohammedd/Eslam-Mohammed-Instant-AI-MT-33-H-/actions/workflows/ci.yml/badge.svg)](https://github.com/Eslammohammedd/Eslam-Mohammed-Instant-AI-MT-33-H-/actions/workflows/ci.yml)
+
 This repository contains the work for the Instant AI MT-33-H program. Tasks 1–4 are hosted as Google Colab notebooks; this repository stores their links and the local Python exercises from Task 1.
 
 ## Structure
